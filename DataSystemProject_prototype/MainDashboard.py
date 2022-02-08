@@ -9,7 +9,7 @@ import pandas as pd
 import Clustering
 import DetailView
 import ExplainClusterView
-import GoogleAPI
+import GoogleAPI_by_TeamD2
 import Map
 import WeightEditor
 
