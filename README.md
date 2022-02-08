@@ -20,7 +20,7 @@ Python3.8 with following dependencies installed:
 - sklearn
 
 ## How to run the prototype dashboard
-There are two ways two run the prototype. In both ways, it is recommended to use a python venv to keep the main environment clean.
+There are two ways to run the prototype. In both ways, it is recommended to use a python venv to keep the main environment clean.
 
 ### 1. Easiest way: Directly run from terminal
 1. Download the DataSystemProject_prototype folder, and cd to it in terminal.
