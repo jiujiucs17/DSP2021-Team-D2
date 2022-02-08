@@ -31,7 +31,7 @@ python main.py
 ### 2. Alternative way: Using PyCharm to run the code as a project
 1. Download the DataSystemProject_prototype folder.
 2. Open the folder as a project in PyCharm.
-3. In PyCharm, choose a python venv as the project's python interpreter, and configure the venv to meet the environment reqirement(if needed). 
+3. In PyCharm's Run/Debug configurations, choose a python venv as the project's python interpreter, and configure the venv to meet the environment reqirement(if needed). Then set the "Sript Path" to the path to main.py
 4. Run the project from PyCharm.
 
 ## File Structure
