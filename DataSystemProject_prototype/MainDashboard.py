@@ -268,7 +268,15 @@ class MainDashboardWindow(QMainWindow, Ui_MainDashboardWindow):
         cluster_radius = float(self.radiusEdit.text())
         msgBox = QMessageBox.information(self, "Update Data", "This might take a while, click on OK to proceed.", QMessageBox.Ok)
         #time.sleep(3)
+        
+        ########################################################
+        ##           The google api is disabled now           ##  
+        ## To enable it, uncomment the following line of code ##
+        ########################################################
+        
         # GoogleAPI.Update_Dataset(updatedDataFile, radius=cluster_radius * 1000)
+        
+        
         QMessageBox.information(self, "Update Data", "Complete!")
         self.map.updateData(updatedDataFile)
         self.map.showStationWithoutCLustering()
