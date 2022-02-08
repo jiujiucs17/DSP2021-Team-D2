@@ -274,7 +274,7 @@ class MainDashboardWindow(QMainWindow, Ui_MainDashboardWindow):
         ## To enable it, uncomment the following line of code ##
         ########################################################
         
-        # GoogleAPI.Update_Dataset(updatedDataFile, radius=cluster_radius * 1000)
+        # GoogleAPI_by_TeamD2.Update_Dataset(updatedDataFile, radius=cluster_radius * 1000)
         
         
         QMessageBox.information(self, "Update Data", "Complete!")
