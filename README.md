@@ -1,11 +1,12 @@
 # DSP2021-Team-D2
-Work of Faaris Akbar (11899573), David Chen (13642111), Josephine Chrisiani (13815091), Hualiya Li (13872893), Mengqi Zhang (13792369)
+Work of Faaris Akbar (11899573), David Chen (13642111), Josephine Chrisiani (13815091), Hualiya Li (13872893) and Mengqi Zhang (13792369)
 
 ## Important note
-The Google Map API function is correctly coded and integrated into the code, but to prevent excessive usage of the API key(which is payment required), the function is temporarily disabled.
+The Google Map API function is correctly coded and integrated into the code. However, to prevent excessive usage of the API key(which is payment required), the function is temporarily disabled. 
+The update data button would work as normal but the dashborad won't actually download data from the internet. The download process would last about 15min if enabled.
 Detail can be seen in line 272 of DataSystemProject_prototype/MainDashboard.py
 
-## Environment required
+## Environment requirement
 Python3.8 with following dependencies installed:
 - folium
 - geopy
