@@ -23,7 +23,7 @@ Python3.8 with following dependencies installed:
 There are two ways two run the prototype. In both ways, it is recommended to use a python venv to keep the main environment clean.
 
 ### 1. Easiest way: Directly run from terminal
-1. Download the DataSystemProject_prototype folder, and cd to the folder in terminal.
+1. Download the DataSystemProject_prototype folder, and cd to it in terminal.
 2. Activate a python venv that meets the dependencies.
 3. Run the following command.
 ```
