@@ -3,7 +3,9 @@ Work of Faaris Akbar (11899573), David Chen (13642111), Josephine Chrisiani (138
 
 ## Important note
 The Google Map API function is correctly coded and integrated into the code. However, to prevent excessive usage of the API key(which is payment required), the function is temporarily disabled. 
+
 The update data button would work as normal but the dashborad won't actually download data from the internet. The download process would last about 15min if enabled.
+
 Detail can be seen in line 272 of DataSystemProject_prototype/MainDashboard.py
 
 ## Environment requirement
