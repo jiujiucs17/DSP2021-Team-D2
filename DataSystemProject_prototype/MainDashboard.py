@@ -267,7 +267,6 @@ class MainDashboardWindow(QMainWindow, Ui_MainDashboardWindow):
             self.radiusEdit.setText("1")
         cluster_radius = float(self.radiusEdit.text())
         msgBox = QMessageBox.information(self, "Update Data", "This might take a while, click on OK to proceed.", QMessageBox.Ok)
-        #time.sleep(3)
         
         ########################################################
         ##           The google api is disabled now           ##  
